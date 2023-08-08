@@ -11,7 +11,3 @@ The Chinook Record Store signed a deal with a new record label, and the task is 
 The Chinook database is provided as a SQLite database file called chinook.db. The database can be represented as the scheme below:
 
 ![img](https://s3.amazonaws.com/dq-content/191/chinook-schema.svg)
-
-We'll use the following code to connect our Jupyter Notebook to our database file
-
-## Connecting the Database
